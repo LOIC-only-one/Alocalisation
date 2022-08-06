@@ -5,7 +5,7 @@ Il est nécessaire :
 
 - windows : pip install phonenumbers
 
-- linux : apt-get install pip
+- linux : apt-get install pip &&
           pip install phonenumbers
 
 Bonne localisation, il faut savoir que ceci est légal d'ou OSINT Renseignement d'origine source ouverte
