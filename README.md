@@ -7,10 +7,6 @@
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 
-Alocalisation est un script que j'ai pu utiliser lors de différents challenge CTF :
-
-- TryHackMe (Room delete) -> Vérifie les headers
-- Sur mon cell phone   -> Vérifie les injections SQL par URL
 
 ## _Concernant le script_
 
